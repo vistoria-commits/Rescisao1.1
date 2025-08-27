@@ -1,6 +1,3 @@
-from IPython.display import display, HTML
-
-html_content = """
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -224,6 +221,3 @@ html_content = """
 
 </body>
 </html>
-"""
-
-display(HTML(html_content))
